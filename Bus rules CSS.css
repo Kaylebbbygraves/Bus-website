@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+/*Get Dominic RGB*/
+/* Make sure it fits a full page */
+h1 {
+	width: 625px;
+	font-size: 96px;
+	color: rgb(41, 68, 71);
+	line-height: 1.2;
+	  text-align:center;
+	   margin-left: auto;
+  margin-right: auto;
+}
+span {
+  background-color:rgb(41,68,71); /* Add a bar that lets you chose, K-6 and parent infomation */
+  color:rgb(236,204,156);
+  font-size: 50px;
+    text-align:center;
+	 margin-left: auto;
+  margin-right: auto;
+}
+  p {
+	    background-image: url(wallpaper.jpg); /*Get a nice background*/
+  margin: 15px;
+  background-repeat: no-repeat;
+  color: white;
+  padding-top: 40px;
+  padding-right:40px;
+  padding-left:40px;
+  padding-bottom:40px;
+  background-size: cover;
+  }
+h2 { 
+  width: 702px;
+  color:rgb(134, 103,49);
+  background-color:rgb(236,204,156);
+  text-align:center;
+   margin-left: auto;
+  margin-right: auto;
+}
+h3 {
+  width: 620px;
+  color:brown;
+      text-align:center;
+	   margin-left: auto;
+  margin-right: auto;
+}
+p {
+	text-align:center;
+	 margin-left: auto;
+  margin-right: auto;/*Make smaller and add links to the website*/
+}
+	
+
